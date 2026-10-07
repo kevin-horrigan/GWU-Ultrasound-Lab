@@ -1,0 +1,552 @@
+{
+ "106-97-8": {
+  "cid": 7843,
+  "error": "",
+  "hcodes": [
+   "H220: Extremely flammable gas [Danger Flammable gases]",
+   "H280: Contains gas under pressure; may explode if heated [Warning Gases under pressure]",
+   "H336: May cause drowsiness or dizziness [Warning Specific target organ toxicity, single exposure; Narcotic effects]",
+   "H340: May cause genetic defects [Danger Germ cell mutagenicity]",
+   "H350: May cause cancer [Danger Carcinogenicity]",
+   "H372: Causes damage to organs through prolonged or repeated exposure [Danger Specific target organ toxicity, repeated exposure]"
+  ],
+  "signal": "Danger"
+ },
+ "1185-53-1": {
+  "cid": 93573,
+  "error": "",
+  "hcodes": [
+   "H315: Causes skin irritation [Warning Skin corrosion/irritation]",
+   "H319: Causes serious eye irritation [Warning Serious eye damage/eye irritation]",
+   "H335: May cause respiratory irritation [Warning Specific target organ toxicity, single exposure; Respiratory tract irritation]"
+  ],
+  "signal": "Warning"
+ },
+ "1310-58-3": {
+  "cid": 14797,
+  "error": "",
+  "hcodes": [
+   "H290: May be corrosive to metals [Warning Corrosive to Metals]",
+   "H301: Toxic if swallowed [Danger Acute toxicity, oral]",
+   "H302: Harmful if swallowed [Warning Acute toxicity, oral]",
+   "H304: May be fatal if swallowed and enters airways [Danger Aspiration hazard]",
+   "H314: Causes severe skin burns and eye damage [Danger Skin corrosion/irritation]",
+   "H318: Causes serious eye damage [Danger Serious eye damage/eye irritation]",
+   "H370: Causes damage to organs [Danger Specific target organ toxicity, single exposure]",
+   "H372: Causes damage to organs through prolonged or repeated exposure [Danger Specific target organ toxicity, repeated exposure]",
+   "H402: Harmful to aquatic life [Hazardous to the aquatic environment, acute hazard]"
+  ],
+  "signal": "Danger"
+ },
+ "1310-73-2": {
+  "cid": 14798,
+  "error": "",
+  "hcodes": [
+   "H290: May be corrosive to metals [Warning Corrosive to Metals]",
+   "H314: Causes severe skin burns and eye damage [Danger Skin corrosion/irritation]",
+   "H315: Causes skin irritation [Warning Skin corrosion/irritation]",
+   "H318: Causes serious eye damage [Danger Serious eye damage/eye irritation]",
+   "H319: Causes serious eye irritation [Warning Serious eye damage/eye irritation]",
+   "H335: May cause respiratory irritation [Warning Specific target organ toxicity, single exposure; Respiratory tract irritation]",
+   "H370: Causes damage to organs [Danger Specific target organ toxicity, single exposure]"
+  ],
+  "signal": "Danger"
+ },
+ "13755-38-9": {
+  "cid": null,
+  "error": "HTTP 404",
+  "hcodes": [],
+  "signal": ""
+ },
+ "143-33-9": {
+  "cid": 8929,
+  "error": "",
+  "hcodes": [
+   "H290: May be corrosive to metals [Warning Corrosive to Metals]",
+   "H300+H310+H330: Fatal if swallowed, in contact with skin or if inhaled [Danger Acute toxicity, oral; acute toxicity, dermal; acute toxicity, inhalation]",
+   "H310: Fatal in contact with skin [Danger Acute toxicity, dermal]",
+   "H315: Causes skin irritation [Warning Skin corrosion/irritation]",
+   "H316: Causes mild skin irritation [Warning Skin corrosion/irritation]",
+   "H318: Causes serious eye damage [Danger Serious eye damage/eye irritation]",
+   "H319: Causes serious eye irritation [Warning Serious eye damage/eye irritation]",
+   "H330: Fatal if inhaled [Danger Acute toxicity, inhalation]",
+   "H361: Suspected of damaging fertility or the unborn child [Warning Reproductive toxicity]",
+   "H372: Causes damage to organs through prolonged or repeated exposure [Danger Specific target organ toxicity, repeated exposure]",
+   "H400: Very toxic to aquatic life [Warning Hazardous to the aquatic environment, acute hazard]",
+   "H410: Very toxic to aquatic life with long lasting effects [Warning Hazardous to the aquatic environment, long-term hazard]"
+  ],
+  "signal": "Danger"
+ },
+ "151-21-3": {
+  "cid": 3423265,
+  "error": "",
+  "hcodes": [
+   "H228: Flammable solid [Danger Flammable solids]",
+   "H302: Harmful if swallowed [Warning Acute toxicity, oral]",
+   "H310: Fatal in contact with skin [Danger Acute toxicity, dermal]",
+   "H311: Toxic in contact with skin [Danger Acute toxicity, dermal]",
+   "H312: Harmful in contact with skin [Warning Acute toxicity, dermal]",
+   "H315: Causes skin irritation [Warning Skin corrosion/irritation]",
+   "H318: Causes serious eye damage [Danger Serious eye damage/eye irritation]",
+   "H319: Causes serious eye irritation [Warning Serious eye damage/eye irritation]",
+   "H332: Harmful if inhaled [Warning Acute toxicity, inhalation]",
+   "H335: May cause respiratory irritation [Warning Specific target organ toxicity, single exposure; Respiratory tract irritation]",
+   "H370: Causes damage to organs [Danger Specific target organ toxicity, single exposure]",
+   "H373: May causes damage to organs through prolonged or repeated exposure [Warning Specific target organ toxicity, repeated exposure]",
+   "H400: Very toxic to aquatic life [Warning Hazardous to the aquatic environment, acute hazard]",
+   "H401: Toxic to aquatic life [Hazardous to the aquatic environment, acute hazard]",
+   "H412: Harmful to aquatic life with long lasting effects [Hazardous to the aquatic environment, long-term hazard]"
+  ],
+  "signal": "Danger"
+ },
+ "151-50-8": {
+  "cid": 9032,
+  "error": "",
+  "hcodes": [
+   "H290: May be corrosive to metals [Warning Corrosive to Metals]",
+   "H300+H310+H330: Fatal if swallowed, in contact with skin or if inhaled [Danger Acute toxicity, oral; acute toxicity, dermal; acute toxicity, inhalation]",
+   "H310: Fatal in contact with skin [Danger Acute toxicity, dermal]",
+   "H315: Causes skin irritation [Warning Skin corrosion/irritation]",
+   "H316: Causes mild skin irritation [Warning Skin corrosion/irritation]",
+   "H318: Causes serious eye damage [Danger Serious eye damage/eye irritation]",
+   "H319: Causes serious eye irritation [Warning Serious eye damage/eye irritation]",
+   "H330: Fatal if inhaled [Danger Acute toxicity, inhalation]",
+   "H335: May cause respiratory irritation [Warning Specific target organ toxicity, single exposure; Respiratory tract irritation]",
+   "H361: Suspected of damaging fertility or the unborn child [Warning Reproductive toxicity]",
+   "H370: Causes damage to organs [Danger Specific target organ toxicity, single exposure]",
+   "H371: May cause damage to organs [Warning Specific target organ toxicity, single exposure]",
+   "H372: Causes damage to organs through prolonged or repeated exposure [Danger Specific target organ toxicity, repeated exposure]",
+   "H400: Very toxic to aquatic life [Warning Hazardous to the aquatic environment, acute hazard]",
+   "H410: Very toxic to aquatic life with long lasting effects [Warning Hazardous to the aquatic environment, long-term hazard]",
+   "H412: Harmful to aquatic life with long lasting effects [Hazardous to the aquatic environment, long-term hazard]"
+  ],
+  "signal": "Danger"
+ },
+ "17372-87-1": {
+  "cid": 11048,
+  "error": "",
+  "hcodes": [
+   "H319: Causes serious eye irritation [Warning Serious eye damage/eye irritation]",
+   "H341: Suspected of causing genetic defects [Warning Germ cell mutagenicity]"
+  ],
+  "signal": "Warning"
+ },
+ "298-12-4": {
+  "cid": 760,
+  "error": "",
+  "hcodes": [
+   "H290: May be corrosive to metals [Warning Corrosive to Metals]",
+   "H317: May cause an allergic skin reaction [Warning Sensitization, Skin]",
+   "H318: Causes serious eye damage [Danger Serious eye damage/eye irritation]",
+   "H319: Causes serious eye irritation [Warning Serious eye damage/eye irritation]"
+  ],
+  "signal": "Danger"
+ },
+ "30525-89-4": {
+  "cid": null,
+  "error": "HTTP 404",
+  "hcodes": [],
+  "signal": ""
+ },
+ "50-00-0": {
+  "cid": 712,
+  "error": "",
+  "hcodes": [
+   "H220: Extremely flammable gas [Danger Flammable gases]",
+   "H227: Combustible liquid [Warning Flammable liquids]",
+   "H280: Contains gas under pressure; may explode if heated [Warning Gases under pressure]",
+   "H301: Toxic if swallowed [Danger Acute toxicity, oral]",
+   "H302: Harmful if swallowed [Warning Acute toxicity, oral]",
+   "H311: Toxic in contact with skin [Danger Acute toxicity, dermal]",
+   "H314: Causes severe skin burns and eye damage [Danger Skin corrosion/irritation]",
+   "H315: Causes skin irritation [Warning Skin corrosion/irritation]",
+   "H317: May cause an allergic skin reaction [Warning Sensitization, Skin]",
+   "H318: Causes serious eye damage [Danger Serious eye damage/eye irritation]",
+   "H319: Causes serious eye irritation [Warning Serious eye damage/eye irritation]",
+   "H330: Fatal if inhaled [Danger Acute toxicity, inhalation]",
+   "H331: Toxic if inhaled [Danger Acute toxicity, inhalation]",
+   "H334: May cause allergy or asthma symptoms or breathing difficulties if inhaled [Danger Sensitization, respiratory]",
+   "H341: Suspected of causing genetic defects [Warning Germ cell mutagenicity]",
+   "H350: May cause cancer [Danger Carcinogenicity]",
+   "H350i: May cause cancer by inhalation [Danger Carcinogenicity]",
+   "H351: Suspected of causing cancer [Warning Carcinogenicity]",
+   "H370: Causes damage to organs [Danger Specific target organ toxicity, single exposure]",
+   "H372: Causes damage to organs through prolonged or repeated exposure [Danger Specific target organ toxicity, repeated exposure]",
+   "H401: Toxic to aquatic life [Hazardous to the aquatic environment, acute hazard]",
+   "H402: Harmful to aquatic life [Hazardous to the aquatic environment, acute hazard]",
+   "H412: Harmful to aquatic life with long lasting effects [Hazardous to the aquatic environment, long-term hazard]"
+  ],
+  "signal": "Danger"
+ },
+ "50-21-5": {
+  "cid": 612,
+  "error": "",
+  "hcodes": [
+   "H314: Causes severe skin burns and eye damage [Danger Skin corrosion/irritation]",
+   "H315: Causes skin irritation [Warning Skin corrosion/irritation]",
+   "H318: Causes serious eye damage [Danger Serious eye damage/eye irritation]"
+  ],
+  "signal": "Danger"
+ },
+ "51-83-2": {
+  "cid": 5831,
+  "error": "",
+  "hcodes": [
+   "H300: Fatal if swallowed [Danger Acute toxicity, oral]"
+  ],
+  "signal": "Danger"
+ },
+ "517-28-2": {
+  "cid": 442514,
+  "error": "",
+  "hcodes": [
+   "H302: Harmful if swallowed [Warning Acute toxicity, oral]",
+   "H315: Causes skin irritation [Warning Skin corrosion/irritation]",
+   "H319: Causes serious eye irritation [Warning Serious eye damage/eye irritation]",
+   "H335: May cause respiratory irritation [Warning Specific target organ toxicity, single exposure; Respiratory tract irritation]"
+  ],
+  "signal": "Warning"
+ },
+ "55-31-2": {
+  "cid": 441411,
+  "error": "HTTP 404",
+  "hcodes": [],
+  "signal": ""
+ },
+ "59-92-7": {
+  "cid": 6047,
+  "error": "",
+  "hcodes": [
+   "H302: Harmful if swallowed [Warning Acute toxicity, oral]",
+   "H315: Causes skin irritation [Warning Skin corrosion/irritation]",
+   "H319: Causes serious eye irritation [Warning Serious eye damage/eye irritation]",
+   "H335: May cause respiratory irritation [Warning Specific target organ toxicity, single exposure; Respiratory tract irritation]",
+   "H361: Suspected of damaging fertility or the unborn child [Warning Reproductive toxicity]",
+   "H361d: Suspected of damaging the unborn child [Warning Reproductive toxicity]",
+   "H372: Causes damage to organs through prolonged or repeated exposure [Danger Specific target organ toxicity, repeated exposure]",
+   "H411: Toxic to aquatic life with long lasting effects [Hazardous to the aquatic environment, long-term hazard]",
+   "H412: Harmful to aquatic life with long lasting effects [Hazardous to the aquatic environment, long-term hazard]"
+  ],
+  "signal": "Danger"
+ },
+ "60-24-2": {
+  "cid": 1567,
+  "error": "",
+  "hcodes": [
+   "H227: Combustible liquid [Warning Flammable liquids]",
+   "H301: Toxic if swallowed [Danger Acute toxicity, oral]",
+   "H302: Harmful if swallowed [Warning Acute toxicity, oral]",
+   "H310: Fatal in contact with skin [Danger Acute toxicity, dermal]",
+   "H311: Toxic in contact with skin [Danger Acute toxicity, dermal]",
+   "H314: Causes severe skin burns and eye damage [Danger Skin corrosion/irritation]",
+   "H315: Causes skin irritation [Warning Skin corrosion/irritation]",
+   "H317: May cause an allergic skin reaction [Warning Sensitization, Skin]",
+   "H318: Causes serious eye damage [Danger Serious eye damage/eye irritation]",
+   "H319: Causes serious eye irritation [Warning Serious eye damage/eye irritation]",
+   "H331: Toxic if inhaled [Danger Acute toxicity, inhalation]",
+   "H332: Harmful if inhaled [Warning Acute toxicity, inhalation]",
+   "H361: Suspected of damaging fertility or the unborn child [Warning Reproductive toxicity]",
+   "H371: May cause damage to organs [Warning Specific target organ toxicity, single exposure]",
+   "H373: May causes damage to organs through prolonged or repeated exposure [Warning Specific target organ toxicity, repeated exposure]",
+   "H400: Very toxic to aquatic life [Warning Hazardous to the aquatic environment, acute hazard]",
+   "H410: Very toxic to aquatic life with long lasting effects [Warning Hazardous to the aquatic environment, long-term hazard]",
+   "H411: Toxic to aquatic life with long lasting effects [Hazardous to the aquatic environment, long-term hazard]"
+  ],
+  "signal": "Danger"
+ },
+ "64-19-7": {
+  "cid": 176,
+  "error": "",
+  "hcodes": [
+   "H226: Flammable liquid and vapor [Warning Flammable liquids]",
+   "H303: May be harmful if swallowed [Warning Acute toxicity, oral]",
+   "H312: Harmful in contact with skin [Warning Acute toxicity, dermal]",
+   "H314: Causes severe skin burns and eye damage [Danger Skin corrosion/irritation]",
+   "H318: Causes serious eye damage [Danger Serious eye damage/eye irritation]",
+   "H334: May cause allergy or asthma symptoms or breathing difficulties if inhaled [Danger Sensitization, respiratory]",
+   "H370: Causes damage to organs [Danger Specific target organ toxicity, single exposure]",
+   "H371: May cause damage to organs [Warning Specific target organ toxicity, single exposure]"
+  ],
+  "signal": "Danger"
+ },
+ "67-42-5": {
+  "cid": 6207,
+  "error": "",
+  "hcodes": [
+   "H315: Causes skin irritation [Warning Skin corrosion/irritation]"
+  ],
+  "signal": "Warning"
+ },
+ "67-56-1": {
+  "cid": 887,
+  "error": "",
+  "hcodes": [
+   "H225: Highly Flammable liquid and vapor [Danger Flammable liquids]",
+   "H301: Toxic if swallowed [Danger Acute toxicity, oral]",
+   "H302: Harmful if swallowed [Warning Acute toxicity, oral]",
+   "H303: May be harmful if swallowed [Warning Acute toxicity, oral]",
+   "H311: Toxic in contact with skin [Danger Acute toxicity, dermal]",
+   "H319: Causes serious eye irritation [Warning Serious eye damage/eye irritation]",
+   "H331: Toxic if inhaled [Danger Acute toxicity, inhalation]",
+   "H335: May cause respiratory irritation [Warning Specific target organ toxicity, single exposure; Respiratory tract irritation]",
+   "H336: May cause drowsiness or dizziness [Warning Specific target organ toxicity, single exposure; Narcotic effects]",
+   "H360: May damage fertility or the unborn child [Danger Reproductive toxicity]",
+   "H370 **: Causes damage to organs [Danger Specific target organ toxicity, single exposure]",
+   "H372: Causes damage to organs through prolonged or repeated exposure [Danger Specific target organ toxicity, repeated exposure]"
+  ],
+  "signal": "Danger"
+ },
+ "67-63-0": {
+  "cid": 3776,
+  "error": "",
+  "hcodes": [
+   "H225: Highly Flammable liquid and vapor [Danger Flammable liquids]",
+   "H303: May be harmful if swallowed [Warning Acute toxicity, oral]",
+   "H305: May be harmful if swallowed and enters airways [Warning Aspiration hazard]",
+   "H313: May be harmful in contact with skin [Warning Acute toxicity, dermal]",
+   "H318: Causes serious eye damage [Danger Serious eye damage/eye irritation]",
+   "H319: Causes serious eye irritation [Warning Serious eye damage/eye irritation]",
+   "H335: May cause respiratory irritation [Warning Specific target organ toxicity, single exposure; Respiratory tract irritation]",
+   "H336: May cause drowsiness or dizziness [Warning Specific target organ toxicity, single exposure; Narcotic effects]",
+   "H361: Suspected of damaging fertility or the unborn child [Warning Reproductive toxicity]",
+   "H370: Causes damage to organs [Danger Specific target organ toxicity, single exposure]",
+   "H372: Causes damage to organs through prolonged or repeated exposure [Danger Specific target organ toxicity, repeated exposure]",
+   "H373 **: May causes damage to organs through prolonged or repeated exposure [Warning Specific target organ toxicity, repeated exposure]",
+   "H400: Very toxic to aquatic life [Warning Hazardous to the aquatic environment, acute hazard]",
+   "H410: Very toxic to aquatic life with long lasting effects [Warning Hazardous to the aquatic environment, long-term hazard]"
+  ],
+  "signal": "Danger"
+ },
+ "67-64-1": {
+  "cid": 180,
+  "error": "",
+  "hcodes": [
+   "H225: Highly Flammable liquid and vapor [Danger Flammable liquids]",
+   "H305: May be harmful if swallowed and enters airways [Warning Aspiration hazard]",
+   "H319: Causes serious eye irritation [Warning Serious eye damage/eye irritation]",
+   "H320: Causes eye irritation [Warning Serious eye damage/eye irritation]",
+   "H335: May cause respiratory irritation [Warning Specific target organ toxicity, single exposure; Respiratory tract irritation]",
+   "H336: May cause drowsiness or dizziness [Warning Specific target organ toxicity, single exposure; Narcotic effects]",
+   "H361: Suspected of damaging fertility or the unborn child [Warning Reproductive toxicity]",
+   "H372: Causes damage to organs through prolonged or repeated exposure [Danger Specific target organ toxicity, repeated exposure]",
+   "H373: May causes damage to organs through prolonged or repeated exposure [Warning Specific target organ toxicity, repeated exposure]"
+  ],
+  "signal": "Danger"
+ },
+ "67-66-3": {
+  "cid": 6212,
+  "error": "",
+  "hcodes": [
+   "H302: Harmful if swallowed [Warning Acute toxicity, oral]",
+   "H314: Causes severe skin burns and eye damage [Danger Skin corrosion/irritation]",
+   "H315: Causes skin irritation [Warning Skin corrosion/irritation]",
+   "H318: Causes serious eye damage [Danger Serious eye damage/eye irritation]",
+   "H319: Causes serious eye irritation [Warning Serious eye damage/eye irritation]",
+   "H331: Toxic if inhaled [Danger Acute toxicity, inhalation]",
+   "H332: Harmful if inhaled [Warning Acute toxicity, inhalation]",
+   "H336: May cause drowsiness or dizziness [Warning Specific target organ toxicity, single exposure; Narcotic effects]",
+   "H341: Suspected of causing genetic defects [Warning Germ cell mutagenicity]",
+   "H351: Suspected of causing cancer [Warning Carcinogenicity]",
+   "H361: Suspected of damaging fertility or the unborn child [Warning Reproductive toxicity]",
+   "H361d: Suspected of damaging the unborn child [Warning Reproductive toxicity]",
+   "H370: Causes damage to organs [Danger Specific target organ toxicity, single exposure]",
+   "H372: Causes damage to organs through prolonged or repeated exposure [Danger Specific target organ toxicity, repeated exposure]",
+   "H373: May causes damage to organs through prolonged or repeated exposure [Warning Specific target organ toxicity, repeated exposure]",
+   "H402: Harmful to aquatic life [Hazardous to the aquatic environment, acute hazard]",
+   "H410: Very toxic to aquatic life with long lasting effects [Warning Hazardous to the aquatic environment, long-term hazard]"
+  ],
+  "signal": "Danger"
+ },
+ "68424-85-1": {
+  "cid": null,
+  "error": "HTTP 404",
+  "hcodes": [],
+  "signal": ""
+ },
+ "71-23-8": {
+  "cid": 1031,
+  "error": "",
+  "hcodes": [
+   "H225: Highly Flammable liquid and vapor [Danger Flammable liquids]",
+   "H302: Harmful if swallowed [Warning Acute toxicity, oral]",
+   "H303: May be harmful if swallowed [Warning Acute toxicity, oral]",
+   "H305: May be harmful if swallowed and enters airways [Warning Aspiration hazard]",
+   "H313: May be harmful in contact with skin [Warning Acute toxicity, dermal]",
+   "H315: Causes skin irritation [Warning Skin corrosion/irritation]",
+   "H318: Causes serious eye damage [Danger Serious eye damage/eye irritation]",
+   "H319: Causes serious eye irritation [Warning Serious eye damage/eye irritation]",
+   "H335: May cause respiratory irritation [Warning Specific target organ toxicity, single exposure; Respiratory tract irritation]",
+   "H336: May cause drowsiness or dizziness [Warning Specific target organ toxicity, single exposure; Narcotic effects]",
+   "H351: Suspected of causing cancer [Warning Carcinogenicity]",
+   "H361: Suspected of damaging fertility or the unborn child [Warning Reproductive toxicity]"
+  ],
+  "signal": "Danger"
+ },
+ "72-57-1": {
+  "cid": 6296,
+  "error": "HTTP 404",
+  "hcodes": [],
+  "signal": ""
+ },
+ "74-98-6": {
+  "cid": 6334,
+  "error": "",
+  "hcodes": [
+   "H220: Extremely flammable gas [Danger Flammable gases]",
+   "H280: Contains gas under pressure; may explode if heated [Warning Gases under pressure]",
+   "H336: May cause drowsiness or dizziness [Warning Specific target organ toxicity, single exposure; Narcotic effects]"
+  ],
+  "signal": "Danger"
+ },
+ "75-05-8": {
+  "cid": 6342,
+  "error": "",
+  "hcodes": [
+   "H225: Highly Flammable liquid and vapor [Danger Flammable liquids]",
+   "H302: Harmful if swallowed [Warning Acute toxicity, oral]",
+   "H303: May be harmful if swallowed [Warning Acute toxicity, oral]",
+   "H311: Toxic in contact with skin [Danger Acute toxicity, dermal]",
+   "H312: Harmful in contact with skin [Warning Acute toxicity, dermal]",
+   "H318: Causes serious eye damage [Danger Serious eye damage/eye irritation]",
+   "H319: Causes serious eye irritation [Warning Serious eye damage/eye irritation]",
+   "H332: Harmful if inhaled [Warning Acute toxicity, inhalation]",
+   "H341: Suspected of causing genetic defects [Warning Germ cell mutagenicity]",
+   "H370: Causes damage to organs [Danger Specific target organ toxicity, single exposure]",
+   "H373: May causes damage to organs through prolonged or repeated exposure [Warning Specific target organ toxicity, repeated exposure]"
+  ],
+  "signal": "Danger"
+ },
+ "7601-90-3": {
+  "cid": 24247,
+  "error": "",
+  "hcodes": [
+   "H271: May cause fire or explosion; strong Oxidizer [Danger Oxidizing liquids; Oxidizing solids]",
+   "H290: May be corrosive to metals [Warning Corrosive to Metals]",
+   "H302: Harmful if swallowed [Warning Acute toxicity, oral]",
+   "H314: Causes severe skin burns and eye damage [Danger Skin corrosion/irritation]",
+   "H318: Causes serious eye damage [Danger Serious eye damage/eye irritation]",
+   "H335: May cause respiratory irritation [Warning Specific target organ toxicity, single exposure; Respiratory tract irritation]",
+   "H351: Suspected of causing cancer [Warning Carcinogenicity]",
+   "H361: Suspected of damaging fertility or the unborn child [Warning Reproductive toxicity]",
+   "H371: May cause damage to organs [Warning Specific target organ toxicity, single exposure]",
+   "H372: Causes damage to organs through prolonged or repeated exposure [Danger Specific target organ toxicity, repeated exposure]"
+  ],
+  "signal": "Danger"
+ },
+ "7647-01-0": {
+  "cid": 313,
+  "error": "",
+  "hcodes": [
+   "H280: Contains gas under pressure; may explode if heated [Warning Gases under pressure]",
+   "H290: May be corrosive to metals [Warning Corrosive to Metals]",
+   "H301: Toxic if swallowed [Danger Acute toxicity, oral]",
+   "H314: Causes severe skin burns and eye damage [Danger Skin corrosion/irritation]",
+   "H318: Causes serious eye damage [Danger Serious eye damage/eye irritation]",
+   "H330: Fatal if inhaled [Danger Acute toxicity, inhalation]",
+   "H331: Toxic if inhaled [Danger Acute toxicity, inhalation]",
+   "H334: May cause allergy or asthma symptoms or breathing difficulties if inhaled [Danger Sensitization, respiratory]",
+   "H335: May cause respiratory irritation [Warning Specific target organ toxicity, single exposure; Respiratory tract irritation]",
+   "H370: Causes damage to organs [Danger Specific target organ toxicity, single exposure]",
+   "H372: Causes damage to organs through prolonged or repeated exposure [Danger Specific target organ toxicity, repeated exposure]",
+   "H400: Very toxic to aquatic life [Warning Hazardous to the aquatic environment, acute hazard]"
+  ],
+  "signal": "Danger"
+ },
+ "7697-37-2": {
+  "cid": 944,
+  "error": "",
+  "hcodes": [
+   "H272: May intensify fire; oxidizer [Danger Oxidizing liquids; Oxidizing solids]",
+   "H290: May be corrosive to metals [Warning Corrosive to Metals]",
+   "H302: Harmful if swallowed [Warning Acute toxicity, oral]",
+   "H304: May be fatal if swallowed and enters airways [Danger Aspiration hazard]",
+   "H314: Causes severe skin burns and eye damage [Danger Skin corrosion/irritation]",
+   "H318: Causes serious eye damage [Danger Serious eye damage/eye irritation]",
+   "H330: Fatal if inhaled [Danger Acute toxicity, inhalation]",
+   "H331: Toxic if inhaled [Danger Acute toxicity, inhalation]",
+   "H370: Causes damage to organs [Danger Specific target organ toxicity, single exposure]",
+   "H372: Causes damage to organs through prolonged or repeated exposure [Danger Specific target organ toxicity, repeated exposure]",
+   "H402: Harmful to aquatic life [Hazardous to the aquatic environment, acute hazard]"
+  ],
+  "signal": "Danger"
+ },
+ "7775-14-6": {
+  "cid": 24489,
+  "error": "",
+  "hcodes": [
+   "H251: Self-heating; may catch fire [Danger Self-heating substances and mixtures]",
+   "H302: Harmful if swallowed [Warning Acute toxicity, oral]",
+   "H303: May be harmful if swallowed [Warning Acute toxicity, oral]",
+   "H315: Causes skin irritation [Warning Skin corrosion/irritation]",
+   "H319: Causes serious eye irritation [Warning Serious eye damage/eye irritation]",
+   "H402: Harmful to aquatic life [Hazardous to the aquatic environment, acute hazard]",
+   "H412: Harmful to aquatic life with long lasting effects [Hazardous to the aquatic environment, long-term hazard]"
+  ],
+  "signal": "Danger"
+ },
+ "7790-28-5": {
+  "cid": 23667635,
+  "error": "",
+  "hcodes": [
+   "H271: May cause fire or explosion; strong Oxidizer [Danger Oxidizing liquids; Oxidizing solids]",
+   "H272: May intensify fire; oxidizer [Danger Oxidizing liquids; Oxidizing solids]",
+   "H301: Toxic if swallowed [Danger Acute toxicity, oral]",
+   "H302: Harmful if swallowed [Warning Acute toxicity, oral]",
+   "H314: Causes severe skin burns and eye damage [Danger Skin corrosion/irritation]",
+   "H315: Causes skin irritation [Warning Skin corrosion/irritation]",
+   "H318: Causes serious eye damage [Danger Serious eye damage/eye irritation]",
+   "H319: Causes serious eye irritation [Warning Serious eye damage/eye irritation]",
+   "H335: May cause respiratory irritation [Warning Specific target organ toxicity, single exposure; Respiratory tract irritation]",
+   "H371: May cause damage to organs [Warning Specific target organ toxicity, single exposure]",
+   "H372: Causes damage to organs through prolonged or repeated exposure [Danger Specific target organ toxicity, repeated exposure]",
+   "H400: Very toxic to aquatic life [Warning Hazardous to the aquatic environment, acute hazard]"
+  ],
+  "signal": "Danger"
+ },
+ "7803-57-8": {
+  "cid": 24654,
+  "error": "",
+  "hcodes": [
+   "H226: Flammable liquid and vapor [Warning Flammable liquids]",
+   "H227: Combustible liquid [Warning Flammable liquids]",
+   "H300: Fatal if swallowed [Danger Acute toxicity, oral]",
+   "H301+H311: Toxic if swallowed or in contact with skin [Danger Acute toxicity, oral; acute toxicity, dermal]",
+   "H311: Toxic in contact with skin [Danger Acute toxicity, dermal]",
+   "H314: Causes severe skin burns and eye damage [Danger Skin corrosion/irritation]",
+   "H317: May cause an allergic skin reaction [Warning Sensitization, Skin]",
+   "H318: Causes serious eye damage [Danger Serious eye damage/eye irritation]",
+   "H330: Fatal if inhaled [Danger Acute toxicity, inhalation]",
+   "H331: Toxic if inhaled [Danger Acute toxicity, inhalation]",
+   "H341: Suspected of causing genetic defects [Warning Germ cell mutagenicity]",
+   "H350: May cause cancer [Danger Carcinogenicity]",
+   "H351: Suspected of causing cancer [Warning Carcinogenicity]",
+   "H370: Causes damage to organs [Danger Specific target organ toxicity, single exposure]",
+   "H372: Causes damage to organs through prolonged or repeated exposure [Danger Specific target organ toxicity, repeated exposure]",
+   "H400: Very toxic to aquatic life [Warning Hazardous to the aquatic environment, acute hazard]",
+   "H410: Very toxic to aquatic life with long lasting effects [Warning Hazardous to the aquatic environment, long-term hazard]"
+  ],
+  "signal": "Danger"
+ },
+ "88-89-1": {
+  "cid": 6954,
+  "error": "",
+  "hcodes": [
+   "H228: Flammable solid [Danger Flammable solids]",
+   "H301: Toxic if swallowed [Danger Acute toxicity, oral]",
+   "H302: Harmful if swallowed [Warning Acute toxicity, oral]",
+   "H311: Toxic in contact with skin [Danger Acute toxicity, dermal]",
+   "H317: May cause an allergic skin reaction [Warning Sensitization, Skin]",
+   "H319: Causes serious eye irritation [Warning Serious eye damage/eye irritation]",
+   "H320: Causes eye irritation [Warning Serious eye damage/eye irritation]",
+   "H331: Toxic if inhaled [Danger Acute toxicity, inhalation]",
+   "H335: May cause respiratory irritation [Warning Specific target organ toxicity, single exposure; Respiratory tract irritation]",
+   "H361f: Suspected of damaging fertility [Warning Reproductive toxicity]",
+   "H370: Causes damage to organs [Danger Specific target organ toxicity, single exposure]",
+   "H372: Causes damage to organs through prolonged or repeated exposure [Danger Specific target organ toxicity, repeated exposure]",
+   "H373: May causes damage to organs through prolonged or repeated exposure [Warning Specific target organ toxicity, repeated exposure]",
+   "H402: Harmful to aquatic life [Hazardous to the aquatic environment, acute hazard]",
+   "H411: Toxic to aquatic life with long lasting effects [Hazardous to the aquatic environment, long-term hazard]"
+  ],
+  "signal": "Danger"
+ }
+}

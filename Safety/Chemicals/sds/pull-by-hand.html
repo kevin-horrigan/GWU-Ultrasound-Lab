@@ -1,0 +1,46 @@
+<!doctype html><meta charset="utf-8"><title>SDS still to pull</title>
+<style>
+body{font:14px/1.5 -apple-system,Segoe UI,sans-serif;margin:0;padding:28px;background:#f6f7f8;color:#16191c}
+h1{font-size:20px;margin:0 0 4px} p{max-width:70ch;color:#4a5257}
+table{border-collapse:collapse;width:100%;background:#fff;margin-top:16px;
+ border:1px solid #dde2e6;border-radius:5px;overflow:hidden}
+th,td{padding:7px 10px;border-bottom:1px solid #eef1f3;text-align:left;vertical-align:top}
+th{font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:#798085;background:#fafbfc}
+tr:last-child td{border-bottom:none}
+tr.done{opacity:.4} tr.done td:nth-child(4){text-decoration:line-through}
+.c a{font-family:ui-monospace,Consolas,monospace;font-size:12.5px;color:#2c5f77}
+.f{font-family:ui-monospace,Consolas,monospace;font-size:11.5px;color:#798085}
+code{background:#eef1f3;padding:1px 5px;border-radius:3px;font-size:12.5px}
+#n{font-weight:600}
+</style>
+<h1>SDS still to pull by hand</h1>
+<p>A script cannot fetch these. Sigma-Aldrich in particular does not refuse, it
+<em>times out</em>, which is bot protection rather than an honest 403. A logged-in
+browser walks straight through it.</p>
+<p>Click a catalogue number, save the PDF into
+<code>Safety/Chemicals/sds/</code> using the filename in the last column, then tick it
+off. Ticks are remembered in this browser.</p>
+<p><span id="n"></span> remaining. <button onclick="localStorage.clear();location.reload()">Reset ticks</button></p>
+<table><thead><tr><th></th><th>Supplier</th><th>Catalogue</th><th>Product</th><th>Save as</th></tr></thead>
+<tbody>
+<h2>No manufacturer SDS exists <span class='ct'>5</span></h2><p>These have no manufacturer sheet to fetch. A secondary container needs the SDS of its <em>parent substance</em> plus a proper label (identity, concentration, date, owner). A retail bottle and a fuel cylinder have a consumer safety sheet from the brand, not a lab SDS. Handle these as labelling jobs, not download jobs.</p><table><thead><tr><th></th><th>Supplier</th><th>Catalogue</th><th>Product</th><th>Save as</th></tr></thead><tbody><tr><td><input type="checkbox" data-k="(torch fitted)|(torch fitted)"></td><td>(torch fitted)</td><td class="c">(torch fitted)</td><td>Propane torch cylinder</td><td class="f">n/a</td></tr>
+<tr><td><input type="checkbox" data-k="**lab-prepared**, Efimov, 8/21|**lab-prepared** Efimov 8/21"></td><td>**lab-prepared**, Efimov, 8/21</td><td class="c">**lab-prepared** Efimov 8/21</td><td>Epinephrine HCl, 10^-3 M</td><td class="f">n/a</td></tr>
+<tr><td><input type="checkbox" data-k="Reorder 190700|190700"></td><td>Reorder 190700</td><td class="c">190700</td><td>Water bath treatment</td><td class="f">n/a</td></tr>
+<tr><td><input type="checkbox" data-k="Zippo|Zippo"></td><td>Zippo</td><td class="c">Zippo</td><td>Butane fuel</td><td class="f">n/a</td></tr>
+<tr><td><input type="checkbox" data-k="hand-labelled, Pyrex bottle|hand-labelled, Pyrex bottle"></td><td>hand-labelled, Pyrex bottle</td><td class="c">hand-labelled, Pyrex bottle</td><td>Nitric acid, 1N</td><td class="f">n/a</td></tr></tbody></table>
+</tbody></table>
+<script>
+function paint(){
+  var left=0;
+  document.querySelectorAll('input[type=checkbox]').forEach(function(b){
+    var on=localStorage.getItem('sds:'+b.dataset.k)==='1';
+    b.checked=on; b.closest('tr').classList.toggle('done',on); if(!on)left++;
+  });
+  document.getElementById('n').textContent=left;
+}
+document.addEventListener('change',function(e){
+  if(e.target.type!=='checkbox')return;
+  localStorage.setItem('sds:'+e.target.dataset.k,e.target.checked?'1':'0'); paint();
+});
+paint();
+</script>

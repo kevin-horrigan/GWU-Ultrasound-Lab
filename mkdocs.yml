@@ -1,0 +1,41 @@
+site_name: GWU Ultrasound Lab
+site_description: Dr. Vesna Zderic Ultrasound Laboratory - Equipment Manual & Training Guide
+theme:
+  name: material
+  features: [navigation.sections, navigation.expand, search.highlight]
+docs_dir: .
+nav:
+  - Home: README.md
+  - Inventory: INVENTORY.md
+  - Systems:
+      - Systems/README.md
+      - Systems/acoustic-power-measurement.md
+      - Systems/beam-mapping.md
+      - Systems/doppler-flow.md
+      - Systems/custom-transducer-characterization.md
+  - SOPs:
+      - SOPs/README.md
+      - SOPs/lab-testing-plan.md
+      - SOPs/transducer-characterization.md
+  - Development:
+      - Development/README.md
+      - Development/transducer-construction.md
+      - Development/custom-generator-system.md
+      - Development/board-rev-roadmap.md
+      - Development/fixed-array-bom.md
+      - Development/search-hardware.md
+  - Intro book:
+      - book/chapters/01_what-this-lab-is.md
+      - book/chapters/02_your-first-week.md
+      - book/chapters/03_how-the-lab-records-itself.md
+      - book/chapters/04_working-safely.md
+      - book/chapters/05_the-instruments.md
+      - book/chapters/06_how-instruments-connect.md
+      - book/chapters/07_your-first-measurement.md
+      - book/chapters/08_knowing-a-result-is-real.md
+      - book/chapters/A1_glossary.md
+      - book/chapters/A2_bench-cards.md
+  - Learning: Learning/README.md
+  - Projects: Projects/README.md
+  - Manuals: Manuals/README.md
+  - Papers: Papers/README.md

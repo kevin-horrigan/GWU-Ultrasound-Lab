@@ -1,0 +1,6 @@
+site/
+.site_build/
+.pdf_build/
+__pycache__/
+*.pyc
+*/firmware/build/
